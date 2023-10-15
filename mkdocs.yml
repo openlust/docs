@@ -1,2 +1,4 @@
 site_name: OpenLUST
 theme: readthedocs
+extra_css:
+  - style.css
