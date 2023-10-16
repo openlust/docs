@@ -1,4 +1,39 @@
 site_name: OpenLUST
-theme: readthedocs
-extra_css:
-  - style.css
+theme:
+  name: material
+  features:
+  - navigation.instant
+  - navigation.footer
+  - search.highlight
+
+  plugins:
+  - search
+  palette:
+     # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      primary: purple
+      accent: deep purple
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: slate
+      primary: purple
+      accent: deep purple
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: default
+      primary: purple
+      accent: deep purple
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+repo_url: https://github.com/openlust/docs
