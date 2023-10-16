@@ -8,19 +8,11 @@ theme:
 
   plugins:
   - search
+
   palette:
-     # Palette toggle for automatic mode
-    - media: "(prefers-color-scheme)"
-      primary: purple
-      accent: deep purple
-      toggle:
-        icon: material/brightness-auto
-        name: Switch to light mode
-
-
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
-      scheme: slate
+      scheme: default
       primary: purple
       accent: deep purple
       toggle:
@@ -29,7 +21,7 @@ theme:
 
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
-      scheme: default
+      scheme: slate
       primary: purple
       accent: deep purple
       toggle:
