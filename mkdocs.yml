@@ -10,7 +10,7 @@ nav:
       - lustmotion-API.md
       - lustmotion-contribute.md
   - "LUST-Remote":
-      - lrgetstarted.md
+      - lustremote-getstarted.md
 
 theme:
   name: material

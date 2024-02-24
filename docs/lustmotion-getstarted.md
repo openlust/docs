@@ -1,4 +1,4 @@
-# Get Started with LUST-remote
+# Get Started with LUST-motion
 
 ![Main View](media/LUST-motion.png)
 
