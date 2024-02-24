@@ -3,7 +3,12 @@ site_name: OpenLUST
 nav:
   - Home: index.md
   - "LUST-motion":
-      - lmgetstarted.md
+      - lustmotion-getstarted.md
+      - lustmotion-config.md
+      - lustmotion-usage.md
+      - lustmotion-connectivity.md
+      - lustmotion-API.md
+      - lustmotion-contribute.md
   - "LUST-Remote":
       - lrgetstarted.md
 
