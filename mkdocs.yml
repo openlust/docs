@@ -1,13 +1,30 @@
 site_name: OpenLUST
+
+nav:
+  - Home: index.md
+  - "LUST-motion":
+      - lmgetstarted.md
+  - "LUST-Remote":
+      - lrgetstarted.md
+
 theme:
   name: material
   features:
-  - navigation.instant
-  - navigation.footer
-  - search.highlight
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - toc.follow
+    - toc.integrate
+    - navigation.top
+    - content.code.copy
+    - search.highlight
 
   plugins:
-  - search
+    - search:
+      separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
 
   palette:
     # Palette toggle for light mode
@@ -16,7 +33,7 @@ theme:
       primary: purple
       accent: deep purple
       toggle:
-        icon: material/brightness-7 
+        icon: material/brightness-7
         name: Switch to dark mode
 
     # Palette toggle for dark mode
