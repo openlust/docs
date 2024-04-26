@@ -51,3 +51,6 @@ theme:
         name: Switch to light mode
 
 repo_url: https://github.com/openlust/docs
+
+extra_javascript:
+  - https://unpkg.com/esp-web-tools@10/dist/web/install-button.js

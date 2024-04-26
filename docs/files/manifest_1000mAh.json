@@ -1,0 +1,15 @@
+{
+    "name": "M5-Remote-1000mAh",
+    "version": "V2.0.1",
+    "home_assistant_domain": "",
+    "funding_url": "",
+    "new_install_prompt_erase": false,
+    "builds": [
+      {
+        "chipFamily": "ESP32",
+        "parts": [
+          { "path": "https://openlust.app/firmware_1000mAh.bin", "offset": 0 }
+        ]
+      }
+    ]
+  }
