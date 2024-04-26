@@ -10,7 +10,7 @@ nav:
       - lustmotion-API.md
       - lustmotion-contribute.md
   - "LUST-Remote":
-      - lustremote-getstarted.md
+      - lust-remote/lustremote-firmware.md
 
 theme:
   name: material
@@ -51,6 +51,3 @@ theme:
         name: Switch to light mode
 
 repo_url: https://github.com/openlust/docs
-
-extra_javascript:
-  - https://unpkg.com/esp-web-tools@10/dist/web/install-button.js

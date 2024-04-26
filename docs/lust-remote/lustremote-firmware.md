@@ -61,4 +61,4 @@ Powered by [ESP Web Tools](https://esphome.github.io/esp-web-tools/)
     }
     ));
 </script>
-<script type="module" src="https://unpkg.com/esp-web-tools@8.0.1/dist/web/install-button.js?module"></script>
+<script type="module" src="https://unpkg.com/esp-web-tools@10/dist/web/install-button.js?module"></script>
