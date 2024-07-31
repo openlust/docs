@@ -36,10 +36,13 @@ Flash or Find your device using next options:
 <p>Select your product</p>
 <ul class="radios">
 <li>
-    <label><input type="radio" name="type" value="100mAh" />LUST-Remote With 100mAh Battery (Stock) V2.0.1</label>
+    <label><input type="radio" name="type" value="100mAh" />LUST-Remote With 100mAh Battery (Stock) V2.1.0</label>
 </li>
 <li>
-    <label><input type="radio" name="type" value="1000mAh" />LUST-Remote With 1000mAh Battery Recomended in BOM V2.0.1</label>
+    <label><input type="radio" name="type" value="1000mAh" />LUST-Remote With 1000mAh Battery Recomended in BOM V2.1.0</label>
+</li>
+<li>
+    <label><input type="radio" name="type" value="S3" />LUST-Remote Core S3 With 1000mAh Battery Recomended in BOM V2.1.1</label>
 </li>
 </ul>
 <p class="button-row" align="center">

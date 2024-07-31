@@ -8,7 +8,7 @@
       {
         "chipFamily": "ESP32",
         "parts": [
-          { "path": "firmware_1000mAh.bin", "offset": 0 }
+          { "path": "s3-firmware.bin", "offset": 0 }
         ]
       }
     ]

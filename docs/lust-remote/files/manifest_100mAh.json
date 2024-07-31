@@ -1,6 +1,6 @@
 {
     "name": "M5-Remote-100mAh",
-    "version": "V2.0.1",
+    "version": "V2.1.0",
     "home_assistant_domain": "",
     "funding_url": "",
     "new_install_prompt_erase": false,
