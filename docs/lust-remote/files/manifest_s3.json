@@ -6,7 +6,7 @@
     "new_install_prompt_erase": false,
     "builds": [
       {
-        "chipFamily": "ESP32",
+        "chipFamily": "ESP32s3",
         "parts": [
           { "path": "s3-firmware.bin", "offset": 0 }
         ]
