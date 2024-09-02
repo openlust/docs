@@ -1,12 +1,10 @@
 {
     "name": "M5-Remote-1000mAh",
     "version": "V2.1.0",
-    "home_assistant_domain": "",
     "funding_url": "",
-    "new_install_prompt_erase": false,
     "builds": [
       {
-        "chipFamily": "ESP32s3",
+        "chipFamily": "ESP32-S3",
         "parts": [
           { "path": "s3-firmware.bin", "offset": 0 }
         ]

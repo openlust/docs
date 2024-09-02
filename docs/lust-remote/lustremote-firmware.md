@@ -43,7 +43,7 @@ Flash or Find your devices using next options:
     <label><input type="radio" name="type" value="1000mAh" />LUST-Remote With 1000mAh Battery Recomended in BOM V2.1.0</label>
 </li>
 <li>
-    <label><input type="radio" name="type" value="S3" />LUST-Remote Core S3 With 1000mAh Battery Recomended in BOM V2.1.1</label>
+    <label><input type="radio" name="type" value="s3" />LUST-Remote Core S3 With 1000mAh Battery Recomended in BOM V2.1.1</label>
 </li>
 <li>
     <label><input type="radio" name="type" value="stroke-11-2000-150mm" />OSSM-Stroke HW v1.1 Board 2000 Steps (Fixed Rail Length 150mm)</label>
