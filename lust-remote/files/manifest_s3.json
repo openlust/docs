@@ -1,0 +1,13 @@
+{
+    "name": "M5-Remote-1000mAh",
+    "version": "V2.1.0",
+    "funding_url": "",
+    "builds": [
+      {
+        "chipFamily": "ESP32-S3",
+        "parts": [
+          { "path": "s3-firmware.bin", "offset": 0 }
+        ]
+      }
+    ]
+  }
