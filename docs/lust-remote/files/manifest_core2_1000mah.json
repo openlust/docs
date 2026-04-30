@@ -1,0 +1,16 @@
+{
+    "name": "M5-Remote-1000mAh",
+    "version": "V2.2.0",
+    "funding_url": "",
+    "builds": [
+        {
+            "chipFamily": "ESP32",
+            "parts": [
+                {
+                    "path": "OSSM-M5-Remote_m5stack-core2_2-2-0_charge-1000mA.bin",
+                    "offset": 0
+                }
+            ]
+        }
+    ]
+}
