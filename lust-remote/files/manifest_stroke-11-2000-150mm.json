@@ -1,0 +1,15 @@
+{
+    "name": "OSSM-Stroke-11-2000",
+    "version": "V2.1.0",
+    "home_assistant_domain": "",
+    "funding_url": "",
+    "new_install_prompt_erase": false,
+    "builds": [
+      {
+        "chipFamily": "ESP32",
+        "parts": [
+          { "path": "firmware-stroke-11-2000-150mm.bin", "offset": 0 }
+        ]
+      }
+    ]
+  }
